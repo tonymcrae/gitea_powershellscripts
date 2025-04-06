@@ -1,6 +1,3 @@
-
-
+write-host 'hi again'
 
 write-host 'test after renamel'
-
-write-host 'test change tracking'
