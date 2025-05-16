@@ -4,4 +4,4 @@ write-host 'test after modification'
 
 write-host 'I did this in a test branch!'
 
-wrtie-host 'commiting to gitea, to github, from my NAS
+wrtie-host 'commiting to gitea, to github, from my NAS, but comitting to main'
